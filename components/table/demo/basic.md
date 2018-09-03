@@ -17,7 +17,7 @@ Simple table with actions.
 import { Table, Divider, Tag } from 'antd';
 
 const columns = [{
-  title: 'Name',
+  title: 'hame',
   dataIndex: 'name',
   key: 'name',
   render: text => <a href="javascript:;">{text}</a>,
